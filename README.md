@@ -2,8 +2,8 @@
 <h3>How to Use ? </h3> </br>
 -)git clone https://github.com/Techzindia/Kali-linux_For_Termux </br>
 -)cd Kali-linux_For_Termux </br>
--)cp Kali-linux-Termux $HOME
--)cd $HOME
+-)cp Kali-linux-Termux $HOME </br>
+-)cd $HOME </br>
 -)chmod +x Kali-linux-Termux </br>
 -)./Kali-linux-Termux
 
